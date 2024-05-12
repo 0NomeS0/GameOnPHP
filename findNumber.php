@@ -13,5 +13,6 @@ if(isset($_POST["checkDate"])){
 <html>
     <head>
         <title>Игра угадай число</title>
+        <h1>Hello world</h1>
     </head>
 </html>
